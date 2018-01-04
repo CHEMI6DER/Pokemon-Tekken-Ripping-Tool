@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon Tekken Ripping Tool", "Pokemon Tekken Ripping Tool\Pokemon Tekken Ripping Tool.csproj", "{B7E8BDF7-4B48-43B7-9EF2-8A80A5D5FAC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRPDecrypter", "C:\Users\CHEMI6DER\Downloads\Pokken-Tools-master\DRPDecrypter\DRPDecrypter.csproj", "{188CBA23-7191-4812-9BD4-07776661E6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRPExtractor", "C:\Users\CHEMI6DER\Downloads\Pokken-Tools-master\DRPExtractor\DRPExtractor.csproj", "{1C696A62-F209-4914-B640-259B3D0E20CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B7E8BDF7-4B48-43B7-9EF2-8A80A5D5FAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E8BDF7-4B48-43B7-9EF2-8A80A5D5FAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E8BDF7-4B48-43B7-9EF2-8A80A5D5FAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188CBA23-7191-4812-9BD4-07776661E6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188CBA23-7191-4812-9BD4-07776661E6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188CBA23-7191-4812-9BD4-07776661E6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188CBA23-7191-4812-9BD4-07776661E6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C696A62-F209-4914-B640-259B3D0E20CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C696A62-F209-4914-B640-259B3D0E20CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C696A62-F209-4914-B640-259B3D0E20CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C696A62-F209-4914-B640-259B3D0E20CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

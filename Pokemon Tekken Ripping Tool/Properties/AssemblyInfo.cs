@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
 [assembly: AssemblyTitle("Pokemon Tekken Ripping Tool")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Tools for ripping stuff from Pokemon Tekken/Pokken Tournament")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Pokemon Tekken Ripping Tool")]
